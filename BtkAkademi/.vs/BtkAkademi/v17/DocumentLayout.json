@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\views\\course\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:views\\course\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|c:\\github repos\\mvc-btkakademi\\btkakademi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673FEEF4-DD1C-4FB8-B43E-5C0B3B484549}|BtkAkademi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Apply.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Course\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T21:59:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T21:58:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T21:56:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:55:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:55:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T23:13:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Feedback.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Views\\Course\\Feedback.cshtml",
+              "RelativeToolTip": "Views\\Course\\Feedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T22:53:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:41:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\BtkAkademi\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:34:52.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

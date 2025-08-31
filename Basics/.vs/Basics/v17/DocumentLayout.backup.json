@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|c:\\github repos\\mvc-btkakademi\\basics\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|c:\\github repos\\mvc-btkakademi\\basics\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|c:\\github repos\\mvc-btkakademi\\basics\\views\\employee\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|solutionrelative:views\\employee\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|c:\\github repos\\mvc-btkakademi\\basics\\views\\employee\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA3AAED3-4F98-4936-B74F-0A693C600851}|Basics.csproj|solutionrelative:views\\employee\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:10:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index1.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index1.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:59:54.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index2.cshtml",
+              "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Views\\Employee\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-31T19:50:32.494Z",
               "EditorCaption": ""
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Github Repos\\mvc-btkakademi\\Basics\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T19:38:12.09Z",
               "EditorCaption": ""
